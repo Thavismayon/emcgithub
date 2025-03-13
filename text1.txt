@@ -1,1 +1,2 @@
 creates text1.txt file 
+Hi this is thavis mayon this is my first project 
